@@ -6,11 +6,21 @@ y moverse hasta esta carpeta con el comando "cd" y luego escribir:
 
 ```
 php -S 0.0.0.0:8000
-
 ``` 
 
 Los materiales del curso se dividen las siguientes carpetas:
-- curso: contiene las secciones del curso en formato markdown
-- funciones: contiene un listado de funciones de PHP y ejemplos de uso
-- aplicaciones: contiene aplicaciones completas de referencia
-- casos_de_uso: contiene ejemplos de código para diversas situaciones o problemas
+
+## curso
+Contiene las secciones del curso en formato markdown
+
+## ejemplos
+Contiene ejercicios para practicar lo dado en el curso
+
+## funciones
+Contiene un listado de funciones de PHP y ejemplos de uso
+
+## aplicaciones
+Contiene aplicaciones completas de referencia
+
+## ejemplos
+Contiene ejemplos de código para diversas situaciones o problemas
