@@ -1,0 +1,1 @@
+<h1 class="text-center muy-separado">Publicaste la casa con éxito!</h1>

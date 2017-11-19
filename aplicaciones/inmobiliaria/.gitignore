@@ -1,0 +1,3 @@
+casas.txt
+fotos/*
+!fotos/index.html
