@@ -1,0 +1,9 @@
+.carousel-item {
+	height: 400px;
+	overflow-y: hidden;
+}
+
+
+.carousel-item .d-block {
+	margin-top: -150px;
+}
