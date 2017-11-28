@@ -1,0 +1,17 @@
+html {
+    background-color: #343233;
+    color: #efdab9;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.contador-caja {
+    margin-top: 5rem;
+}
+
+.contador-titulo {
+    text-align: center;
+}
+
+.contador-texto-conteo {
+    text-align: center;
+}
